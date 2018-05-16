@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f1a21e07661524eea962817eb0239bb3
+timeCreated: 1491469668
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bambina
+  fontNames:
+  - Bambina
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

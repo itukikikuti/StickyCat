@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Plant
+  - Dark
+  - Decoration
+  - Robot
+  - Squirrel
+  - StickyBall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tile
+    uniqueID: 1376120213
+    locked: 0
+  - name: BackMounten
+    uniqueID: 223674881
+    locked: 0
+  - name: BackBlock
+    uniqueID: 1604211551
+    locked: 0
+  - name: BackLock6
+    uniqueID: 549363567
+    locked: 0
+  - name: BackLock7
+    uniqueID: 363100135
+    locked: 0
+  - name: BackParticle
+    uniqueID: 3294222755
+    locked: 0
+  - name: BackTree
+    uniqueID: 4241931115
+    locked: 0
+  - name: BackGrass
+    uniqueID: 2267889613
+    locked: 0
+  - name: BackLock
+    uniqueID: 2887804251
+    locked: 0
+  - name: Decoration
+    uniqueID: 2745200465
+    locked: 0
+  - name: JointLine
+    uniqueID: 2651880787
+    locked: 0
+  - name: Enemy
+    uniqueID: 1221029275
+    locked: 0
+  - name: Player
+    uniqueID: 904392821
+    locked: 0
+  - name: BackWater
+    uniqueID: 850140831
+    locked: 0
+  - name: ForeBlock
+    uniqueID: 1685913591
+    locked: 0
+  - name: ForeLock6
+    uniqueID: 1838281435
+    locked: 0
+  - name: ForeLock5
+    uniqueID: 1221714749
+    locked: 0
+  - name: ForeLock4
+    uniqueID: 2592900985
+    locked: 0
+  - name: ForeLock3
+    uniqueID: 3264620325
+    locked: 0
+  - name: ForeLock2
+    uniqueID: 2529272753
+    locked: 0
+  - name: ForeLock8
+    uniqueID: 2221096543
+    locked: 0
+  - name: ForeLock1
+    uniqueID: 812634407
+    locked: 0
+  - name: ForeParticle
+    uniqueID: 1818229747
+    locked: 0
+  - name: ForeTree
+    uniqueID: 985323391
+    locked: 0
+  - name: ForeGrass
+    uniqueID: 1834309349
+    locked: 0
+  - name: ForeCharacter
+    uniqueID: 503780633
+    locked: 0
+  - name: ForeWater
+    uniqueID: 3598721121
+    locked: 0
+  - name: Dark
+    uniqueID: 3102065279
+    locked: 0
+  - name: Goal
+    uniqueID: 1581379341
+    locked: 0
+  - name: UserInterface
+    uniqueID: 2551294955
+    locked: 0
